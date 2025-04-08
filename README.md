@@ -1,12 +1,21 @@
 # 19CSE100 - Problem Solving and Algorithmic Thinking (PSAT)  ![](https://img.shields.io/badge/-Live-green)
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-PSAT-blue)
+NEAT OUTPUT
+https://github.com/mr-mohan-v/Waste-Management-System
+https://github.com/IamLAM/Flowgorithm
+https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE100-Problem-Solving-and-Algorithmic-Thinking
+https://github.com/phaticusthiccy/Flowgorithm
+https://github.com/mr-mohan-v/Waste-Management-System
+https://github.com/mr-mohan-v/Waste-Management-System
+https://github.com/HarunUYGUC/Algorithm_with_Flowgorithm
 
+https://github.com/burn-e-e/programming-learning/tree/main/flowgorithm
 
 aaRRAYS
-
-
+https://github.com/HarunUYGUC/Algorithm_with_Flowgorithm
+https://github.com/HarunUYGUC/Algorithm_with_Flowgorithm
 https://github.com/aloukikjoshi/Flowgorithm-Practice-Playground
-
+https://github.com/mr-mohan-v/Waste-Management-System
 https://github.com/aloukikjoshi/Flowgorithm-Practice-Playground/tree/main/Arrays
 
 
